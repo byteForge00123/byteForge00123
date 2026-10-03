@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm itsMeePaii 👋</h1>
-  <p><strong>Full-stack Web Developer</strong><br />Building polished, practical web applications from frontend to backend.</p>
+  <p><strong>Web Developer · Full-Stack Prototypes</strong><br />Building polished, practical web applications from frontend to backend.</p>
 </div>
 
 ### Contribution Overview
@@ -15,7 +15,7 @@
 
 ### About Me
 
-I’m a full-stack web developer who enjoys turning ideas into polished, practical products. My public projects cover a range of needs: movie discovery, restaurant experiences, business management, clinic management, and education. I like shaping the whole experience, from the interface people use to the application logic behind it, and iterating until the product feels clear and useful.
+I build ready-to-use web templates and full-stack prototypes. My public projects range from movie discovery and restaurant experiences to business, clinic, and education applications. I enjoy turning ideas into clear user experiences and connecting them to backend functionality, while continuing to strengthen complete app flows and production-ready patterns.
 
 ### Tech Stack
 
@@ -31,6 +31,10 @@ I’m a full-stack web developer who enjoys turning ideas into polished, practic
 Claude and Codex are part of my toolkit for exploring ideas, prototyping, and building.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![OpenAI_Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Fun Fact
+
+If it works, leave it alone. If it doesn't, just stare at it for a while.
 
 ### Let's Connect
 
