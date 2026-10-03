@@ -1,15 +1,21 @@
 <div align="center">
   <h1>Hey, I'm itsMeePaii 👋</h1>
   <p><strong>Full-stack Web Developer</strong><br />Building polished, practical web applications from frontend to backend.</p>
-  <p><a href="https://github.com/byteForge00123">GitHub Profile</a> · <a href="https://github.com/byteForge00123?tab=repositories">Explore my projects</a></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,vue,angular,vite,laravel,php,mysql,postgres,ruby,rails,alpinejs&perline=8&theme=dark" alt="JavaScript, TypeScript, Next.js, React, Tailwind CSS, Vue, Angular, Vite, Laravel, PHP, MySQL, PostgreSQL, Ruby, Rails, Alpine.js" />
 </div>
+
+---
+
+## Contribution Overview
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=58A6FF&dates=8B949E&stroke=30363D" alt="GitHub total contributions, current streak, and longest streak" />
+</p>
 
 ---
 
 ## About
 
-I enjoy turning ideas into useful digital products, from modern interfaces and movie experiences to business, clinic, and education applications. My work spans JavaScript and TypeScript frameworks, Laravel and Blade, and Ruby on Rails.
+I enjoy turning ideas into useful web apps, from movie experiences to business, clinic, and education applications.
 
 ## Technologies & Tools
 
@@ -29,31 +35,10 @@ Claude and Codex are part of my toolkit for exploring ideas, prototyping, and bu
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![OpenAI_Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
-## Selected Work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Veyra](https://github.com/byteForge00123/Veyra) | Made to move different | TypeScript |
-| [ELOVA](https://github.com/byteForge00123/ELOVA) | A good movie goes a long way | TypeScript |
-| [Kiyora](https://github.com/byteForge00123/Kiyora) | Japanese restaurant website template | Vue |
-| [Linberg](https://github.com/byteForge00123/Linberg) | Business management application | Blade |
-| [SAEROM](https://github.com/byteForge00123/SAEROM) | Clinic management system | Ruby |
-| [AVENRIDGE-ACADEMY](https://github.com/byteForge00123/AVENRIDGE-ACADEMY) | Learn, connect, belong | Blade |
+---
 
 ## Let's Connect
 
-Have a look through my repositories and projects. I'm always interested in seeing what other developers are building.
+Explore my work through my public repositories.
 
 [![GitHub](https://img.shields.io/badge/GitHub-byteForge00123-181717?style=flat-square&logo=github)](https://github.com/byteForge00123) [![Repositories](https://img.shields.io/badge/Repositories-Explore-2F81F7?style=flat-square&logo=github)](https://github.com/byteForge00123?tab=repositories)
-
-<details>
-  <summary>My stack in code</summary>
-
-```ts
-const toolkit = {
-  frontend: ["Next.js", "React", "Vue", "Angular"],
-  backend: ["Laravel", "Rails"],
-  ai: ["Claude", "Codex"],
-} as const;
-```
-</details>
