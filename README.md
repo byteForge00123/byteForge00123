@@ -28,7 +28,7 @@ I build ready-to-use web templates and full-stack prototypes. My public projects
 
 ### AI Pairing
 
-Claude and Codex are part of my toolkit for exploring ideas, prototyping, and building.
+Claude and Codex are part of my development toolkit, helping guide me as I explore ideas, prototype solutions, and build and improve projects.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![OpenAI_Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
