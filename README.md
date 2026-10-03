@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm itsMeePaii 👋</h1>
+  <h1>Hey, it's me, Paii! 👋</h1>
   <p><strong>Web Developer · Full-Stack Prototypes</strong><br />Building polished, practical web applications from frontend to backend.</p>
 </div>
 
@@ -20,7 +20,7 @@ I build ready-to-use web templates and full-stack prototypes. My public projects
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,vue,angular,vite,laravel,php,mysql,postgres,ruby,rails,alpinejs&perline=8&theme=dark" alt="JavaScript, TypeScript, Next.js, React, Tailwind CSS, Vue, Angular, Vite, Laravel, PHP, MySQL, PostgreSQL, Ruby, Rails, Alpine.js" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,vue,angular,vite,laravel,php,docker,mysql,postgres,ruby,rails,alpinejs&perline=8&theme=dark" alt="JavaScript, TypeScript, Next.js, React, Tailwind CSS, Vue, Angular, Vite, Laravel, PHP, Docker, MySQL, PostgreSQL, Ruby, Rails, Alpine.js" />
 </p>
 
 **Additional Tools**  
@@ -32,7 +32,7 @@ Claude and Codex are part of my toolkit for exploring ideas, prototyping, and bu
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![OpenAI_Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
-### Fun Fact
+### Motto
 
 If it works, leave it alone. If it doesn't, just stare at it for a while.
 
